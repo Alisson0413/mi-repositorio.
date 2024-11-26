@@ -1,0 +1,27 @@
+public class Poema {
+    public static void main(String[] args) {
+        // Título del poema
+        System.out.println("El Sol y la Luna");
+        System.out.println();
+
+        // Primer verso
+        System.out.println("El sol brilla en el cielo azul,");
+        System.out.println("Con su luz ilumina el día,");
+        System.out.println("Mientras la luna, en su quietud,");
+        System.out.println("Cubre la noche con armonía.");
+        System.out.println();
+
+        // Segundo verso
+        System.out.println("El sol despierta el campo verde,");
+        System.out.println("Y al sollozo del viento responde,");
+        System.out.println("La luna, en su calma, se esconde,");
+        System.out.println("Pero su brillo nunca muere.");
+        System.out.println();
+
+        // Tercer verso
+        System.out.println("Así, en su eterno vaivén,");
+        System.out.println("El día y la noche se cruzan,");
+        System.out.println("El sol y la luna, tan lejanos,");
+        System.out.println("Y sin embargo, se buscan.");
+    }
+}
