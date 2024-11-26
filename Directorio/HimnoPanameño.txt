@@ -1,0 +1,26 @@
+public class HimnoPanama {
+    public static void main(String[] args) {
+        System.out.println("¡Que los pueblos del mundo, unánimes,");
+        System.out.println("Nos saluden con gusto y alegría!");
+        System.out.println("¡Que la patria jamás se rinda");
+        System.out.println("A la gloria inmortal de su historia!");
+        System.out.println();
+
+        System.out.println("¡Oh, Panamá, tu bandera");
+        System.out.println("Es un símbolo de unidad y honor!");
+        System.out.println("¡Y tu himno la voz del cielo,");
+        System.out.println("Que al alma del pueblo da luz!");
+        System.out.println();
+
+        System.out.println("¡Oh, Patria querida,");
+        System.out.println("Tu bandera es un símbolo de unidad!");
+        System.out.println("¡Que el pueblo en su amor te alabe!");
+        System.out.println("¡Y que a tu voz siempre vivan!");
+        System.out.println();
+
+        System.out.println("¡Oh, Panamá, tan hermosa y grandiosa!");
+        System.out.println("¡Que la vida y la paz sigan en ti!");
+        System.out.println("¡Oh, patria inmortal,");
+        System.out.println("Con tu bandera y tu himno vamos a vivir!");
+    }
+}
